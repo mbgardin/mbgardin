@@ -9,7 +9,7 @@ Originally from Mesa, Arizona, I value structured thinking, steady progress, and
 ---
 
 ## 🔧 Tools & Skills
-- Python, R, SQL, TypeScript, Node.js ect.
+- Python, R, SQL, TypeScript, Node.js etc.
 - Pandas, NumPy, scikit-learn
 - Streamlit, GitHub Actions
 - Data visualization & statistical modeling
